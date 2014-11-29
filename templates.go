@@ -1,4 +1,4 @@
-package ringwriter
+package ring
 
 import "github.com/clipperhouse/typewriter"
 
